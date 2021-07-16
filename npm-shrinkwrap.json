@@ -3124,8 +3124,8 @@
     },
     "appium-support": {
       "version": "2.49.0",
-      "resolved": "https://registry.npmjs.org/appium-support/-/appium-support-2.49.0.tgz",
-      "integrity": "sha512-PtUsfpCjdGqZTTuRyH5U9iOGq9SpEVHg0H6/2HrazkX6ZvSQ+kIVYHTAGIXVeBJecfN9/syqgMmEekVgD15BGA==",
+      "resolved": "https://github.com/ben-stevens-sauce/appium-support/archive/refs/tags/v2.99.0.tar.gz",
+      "integrity": "sha512-nG12ZfL4vIvXUdTExsv0xIWRrFLjjMFNqZ8XlayfGJp6BwdsbjnwQzHpMtFJnsZI7eLJoayRv68w4cTy0kj/TQ==",
       "requires": {
         "@babel/runtime": "^7.0.0",
         "archiver": "^5.0.0",
